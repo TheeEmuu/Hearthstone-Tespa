@@ -1,0 +1,35 @@
+[1006/213128.236:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1012/175701.024:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1012/175718.266:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1012/175718.303:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1012/175718.732:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1012/180046.906:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1013/022352.609:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1028/231957.065:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1028/232057.141:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1028/232358.534:ERROR:file_io_win.cc(161)] CreateFile C:\Users\pengu\AppData\Local\Temp\scoped_dir1140748_2045050675\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[1028/233751.610:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1028/233958.168:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/233959.378:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/234005.220:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1028/234151.592:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/234151.592:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/234155.770:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1028/234208.605:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1028/234208.625:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1028/234315.588:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1028/234326.834:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/234327.551:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/234327.723:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/234329.511:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1028/234451.304:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/234451.304:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/234453.508:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/234517.306:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/234931.387:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/235000.933:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/235012.991:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/235012.991:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/235042.472:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[1028/235337.963:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1028/235338.068:ERROR:exception_snapshot_win.cc(98)] thread ID 1140688 not found in process
